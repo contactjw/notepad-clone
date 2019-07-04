@@ -4,15 +4,9 @@ A text editor that includes all the functionality of standard text editors: save
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 You will need to install Qt Framework Version 5.12.4.
-
-```
-Give examples
-```
 
 ### Installing
 
@@ -20,9 +14,9 @@ For installation guide follow the official Qt video installation process.
 
 https://www.youtube.com/watch?v=I5jasWrsxT0
 
-```
-Give the example
-```
+Also be sure to clone or download this repository to your desktop.
+
+Go to notepad-clone in this repository and hit green clone or download button on bottom right of red commit bar.
 
 ## Running the tests
 
@@ -36,9 +30,8 @@ Project will start.
 
 ## Built With
 
-* [Qt](http://www.dropwizard.io/1.0.2/docs/) - The C++ framework used
-* [C++](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Qt](https://www.qt.io/) - The C++ framework used
+* C++ - Programming Language
 
 ## Authors
 
@@ -51,5 +44,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Thanks for checking out the project!
-* Hope you enjoyed!
-* -John West (Creator)
+     Hope you enjoyed!
+    John West (Creator)

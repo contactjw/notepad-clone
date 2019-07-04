@@ -37,12 +37,8 @@ Project will start.
 
 * **John West** - *Initial work* - [contactjw](https://github.com/contactjw)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
-* Thanks for checking out the project!
-     Hope you enjoyed!
-    John West (Creator)
+* Thanks for checking out the project,
+     hope you enjoyed!
+    -John West (Creator)

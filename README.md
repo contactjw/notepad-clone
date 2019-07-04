@@ -41,4 +41,4 @@ Project will start.
 
 * Thanks for checking out the project,
      hope you enjoyed!
-    -John West (Creator)
+    -John West

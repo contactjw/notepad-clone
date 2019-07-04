@@ -1,6 +1,6 @@
 # Notepad Clone
 
-A text editor that includes all the functionality of standard text editors: save file, open, copy, paste, undo, redo, etc.  Also includes printing capabilities, and planning to add or modify the program to create a notepad similar to Macintosh Notes.
+A text editor that includes all the functionality of standard text editors: save file, open, copy, paste, undo, redo, etc.     Also includes printing capabilities, and planning to add or modify the program to create a notepad similar to Macintosh Notes.
 
 ## Getting Started
 

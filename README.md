@@ -1,6 +1,6 @@
-# Project Title
+# Notepad Clone
 
-One Paragraph of project description goes here
+A text editor that includes all the functionality of standard text editors: save file, open, copy, paste, undo, redo, etc.  Also includes printing capabilities, and planning to add or modify the program to create a notepad similar to Macintosh Notes.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+You will need to install Qt Framework Version 5.12.4.
 
 ```
 Give examples
@@ -16,65 +16,33 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+For installation guide follow the official Qt video installation process.
 
-Say what the step will be
+https://www.youtube.com/watch?v=I5jasWrsxT0
 
 ```
 Give the example
 ```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Open Qt and go to Welcome->Projects->Open Project
 
-### Break down into end to end tests
+Select the folder that you cloned this repository to.  You need to select the .pro file in the folder.
 
-Explain what these tests test and why
+After the project will open in the Qt environment.  Click the green play button (Run) in the bottom left corner.
 
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+Project will start.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
+* [Qt](http://www.dropwizard.io/1.0.2/docs/) - The C++ framework used
+* [C++](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **John West** - *Initial work* - [contactjw](https://github.com/contactjw)
 
 ## License
 
@@ -82,6 +50,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Thanks for checking out the project!
+* Hope you enjoyed!
+* -John West (Creator)
